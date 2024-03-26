@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SV-College-course/static/css/main.f6088487.css",
+    "main.js": "/SV-College-course/static/js/main.abd344be.js",
+    "index.html": "/SV-College-course/index.html",
+    "main.f6088487.css.map": "/SV-College-course/static/css/main.f6088487.css.map",
+    "main.abd344be.js.map": "/SV-College-course/static/js/main.abd344be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6088487.css",
+    "static/js/main.abd344be.js"
+  ]
+}
